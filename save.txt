@@ -1,0 +1,244 @@
+ <section class="technologies-container">
+        <h2>Tecnologías</h2>
+        <div class="technologies">
+            <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                <title>file_type_html</title>
+                <polygon points="5.902 27.201 3.655 2 28.345 2 26.095 27.197 15.985 30 5.902 27.201"
+                    style="fill:#e44f26" />
+                <polygon points="16 27.858 24.17 25.593 26.092 4.061 16 4.061 16 27.858" style="fill:#f1662a" />
+                <polygon
+                    points="16 13.407 11.91 13.407 11.628 10.242 16 10.242 16 7.151 15.989 7.151 8.25 7.151 8.324 7.981 9.083 16.498 16 16.498 16 13.407"
+                    style="fill:#ebebeb" />
+                <polygon
+                    points="16 21.434 15.986 21.438 12.544 20.509 12.324 18.044 10.651 18.044 9.221 18.044 9.654 22.896 15.986 24.654 16 24.65 16 21.434"
+                    style="fill:#ebebeb" />
+                <polygon
+                    points="15.989 13.407 15.989 16.498 19.795 16.498 19.437 20.507 15.989 21.437 15.989 24.653 22.326 22.896 22.372 22.374 23.098 14.237 23.174 13.407 22.341 13.407 15.989 13.407"
+                    style="fill:#fff" />
+                <polygon
+                    points="15.989 7.151 15.989 9.071 15.989 10.235 15.989 10.242 23.445 10.242 23.445 10.242 23.455 10.242 23.517 9.548 23.658 7.981 23.732 7.151 15.989 7.151"
+                    style="fill:#fff" />
+            </svg>
+            <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                <title>file_type_css</title>
+                <polygon points="5.902 27.201 3.656 2 28.344 2 26.095 27.197 15.985 30 5.902 27.201"
+                    style="fill:#1572b6" />
+                <polygon points="16 27.858 24.17 25.593 26.092 4.061 16 4.061 16 27.858" style="fill:#33a9dc" />
+                <polygon
+                    points="16 13.191 20.09 13.191 20.372 10.026 16 10.026 16 6.935 16.011 6.935 23.75 6.935 23.676 7.764 22.917 16.282 16 16.282 16 13.191"
+                    style="fill:#fff" />
+                <polygon
+                    points="16.019 21.218 16.005 21.222 12.563 20.292 12.343 17.827 10.67 17.827 9.24 17.827 9.673 22.68 16.004 24.438 16.019 24.434 16.019 21.218"
+                    style="fill:#ebebeb" />
+                <polygon
+                    points="19.827 16.151 19.455 20.29 16.008 21.22 16.008 24.436 22.344 22.68 22.391 22.158 22.928 16.151 19.827 16.151"
+                    style="fill:#fff" />
+                <polygon
+                    points="16.011 6.935 16.011 8.855 16.011 10.018 16.011 10.026 8.555 10.026 8.555 10.026 8.545 10.026 8.483 9.331 8.342 7.764 8.268 6.935 16.011 6.935"
+                    style="fill:#ebebeb" />
+                <polygon
+                    points="16 13.191 16 15.111 16 16.274 16 16.282 12.611 16.282 12.611 16.282 12.601 16.282 12.539 15.587 12.399 14.02 12.325 13.191 16 13.191"
+                    style="fill:#ebebeb" />
+            </svg>
+            <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect x="2" y="2" width="28" height="28" fill="#FFCA28"/>
+                <path d="M19 25.2879L21.0615 23.9237C21.2231 24.4313 22.2462 25.6368 23.5385 25.6368C24.8308 25.6368 25.4308 24.931 25.4308 24.463C25.4308 23.1878 24.1112 22.7382 23.4774 22.5223C23.374 22.4871 23.289 22.4581 23.2308 22.4328C23.2009 22.4198 23.1558 22.4025 23.0979 22.3804C22.393 22.1111 19.7923 21.1175 19.7923 18.2373C19.7923 15.065 22.8538 14.7002 23.5462 14.7002C23.9991 14.7002 26.1769 14.7557 27.2615 16.7939L25.2615 18.1898C24.8231 17.3015 24.0946 17.0081 23.6462 17.0081C22.5385 17.0081 22.3077 17.8201 22.3077 18.1898C22.3077 19.227 23.5112 19.6919 24.5273 20.0844C24.7932 20.1871 25.0462 20.2848 25.2615 20.3866C26.3692 20.91 28 21.7666 28 24.463C28 25.8136 26.8672 28.0002 24.0154 28.0002C20.1846 28.0002 19.1692 25.7003 19 25.2879Z" fill="#3E3E3E"/>
+                <path d="M9 25.5587L11.1487 24.1953C11.317 24.7026 11.9713 25.638 12.9205 25.638C13.8698 25.638 14.3557 24.663 14.3557 24.1953V15.0002H16.9982V24.1953C17.041 25.4636 16.3376 28.0002 13.2332 28.0002C10.379 28.0002 9.19242 26.3039 9 25.5587Z" fill="#3E3E3E"/>
+                </svg>
+        </div>
+    </section>
+
+    <div class="card">
+  <div class="img"></div>
+  <span>Sobre mi</span>
+  <p class="info">
+Tengo un gran interés en la creación de sitios web dinámicos y atractivos. Me especializo en la creación de interfaces de usuario intuitivas y funcionales, utilizando tecnologías como HTML,
+CSS y JavaScript. Me considero una persona muy responsable y comprometido en cada trabajo, me preocupo porque mis clientes queden satisfechos.
+  </p>
+</div>
+
+.card-about-me {
+  width: 17em;
+  height: 22.5em;
+  background: #171717;
+  transition: 1s ease-in-out;
+  clip-path: polygon(
+    30px 0%,
+    100% 0,
+    100% calc(100% - 30px),
+    calc(100% - 30px) 100%,
+    0 100%,
+    0% 30px
+  );
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-about-me {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  display: block;
+  font-size: 1em;
+}
+
+.card-about-me.info {
+  font-weight: 400;
+  color: white;
+  display: block;
+  text-align: center;
+  font-size: 0.72em;
+  margin: 1em;
+}
+
+.card-about-me.img {
+  width: 4.8em;
+  height: 4.8em;
+  background: white;
+  border-radius: 15px;
+  margin: auto;
+}
+
+
+
+<div class="card-project">
+  <div class="card__content">
+    <p class="card__title">Project Name</p>
+    <p class="card__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <button class="card__button">Live Demo</button>
+    <button class="card__button secondary">Source Code</button>
+  </div>
+</div>
+
+
+.card-project {
+  position: relative;
+  width: 350px;
+  aspect-ratio: 16/9;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  perspective: 1000px;
+  box-shadow: 0 0 0 5px #ffffff80;
+  transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.card-project svg {
+  width: 48px;
+  fill: #333;
+  transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.card__image {
+  width: 100%;
+  height: 100%;
+}
+
+.card-project:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(255, 255, 255, 0.2);
+}
+
+.card__content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  transform: rotateX(-90deg);
+  transform-origin: bottom;
+  transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.card-project:hover .card__content {
+  transform: rotateX(0deg);
+}
+
+.card__title {
+  margin: 0;
+  font-size: 20px;
+  color: #333;
+  font-weight: 700;
+}
+
+.card-project:hover svg {
+  scale: 0;
+}
+
+.card__description {
+  margin: 10px 0 10px;
+  font-size: 12px;
+  color: #777;
+  line-height: 1.4;
+}
+
+.card__button {
+  padding: 15px;
+  border-radius: 8px;
+  background: #777;
+  border: none;
+  color: white;
+}
+
+.secondary {
+  background: transparent;
+  color: #777;
+  border: 1px solid #777;
+}
+
+
+const proyectsContainer = document.querySelector('.swiper');
+
+function cardProyect(proyects, limit = proyects.length) {
+    const cardsWrapper = document.createElement('div');
+    cardsWrapper.classList = 'swiper-wrapper'
+    cardsWrapper.style.display = 'flex';
+    cardsWrapper.style.flexWrap = 'wrap';
+    cardsWrapper.style.justifyContent = 'center';
+    cardsWrapper.style.gap = '20px'; // Espacio entre tarjetas
+    
+    proyects.slice(0, limit).forEach(proyect => {
+        const newProyect = document.createElement('div');
+        newProyect.classList = 'swiper-slide';
+        newProyect.innerHTML = `
+            <div class="card-projet"> <!-- Este div debería tener clase swiper, es correcto -->
+                        <img src='${proyect.img}'>
+                        <div class="card__content">
+                            <p class="card__title">${proyect.name}</p>
+                            <p class="card__description">${proyect.description}</p>
+                            <button class="card__button">Live Demo</button>
+                            <button class="card__button secondary">Code</button>
+                            <div class="categories">
+                                <span>HTML</span>
+                                <span>CSS</span>
+                                <span>JAVASCRIPT</span>
+                            </div>
+                        </div> <!-- Cierre de card__content -->
+            </div> <!-- Cierre de card-projet -->
+        `;
+        cardsWrapper.appendChild(newProyect);
+    });
+    proyectsContainer.appendChild(cardsWrapper);
+}
+
+// Mostrar solo los primeros 3 proyectos
+cardProyect(card, 3);
+
+
+                <div class="content">
+                    <p class="heading">Sobre mí</p>
+                    <p class="para">
+                        Tengo un gran interés en la creación de sitios web dinámicos y atractivos. Me especializo en la
+                        creación de interfaces de usuario intuitivas y funcionales, utilizando tecnologías como HTML,
+                        CSS y JavaScript. Me considero una persona muy responsable y comprometido en cada trabajo, me
+                        preocupo porque mis clientes queden satisfechos.
+                    </p>
+                </div>
